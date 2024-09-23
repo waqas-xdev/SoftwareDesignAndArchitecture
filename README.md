@@ -1,15 +1,15 @@
-    **Low Coupling in Software Design and Architecture**
+    Low Coupling in Software Design and Architecture
   Low coupling in Software Design and Architecture (SDA) refers to designing modules, classes, or components in a way that minimizes dependencies between them. This means that changes in one module or component should have little to no impact on others.
   In simpler terms, when two components have low coupling, they can work independently without heavily relying on each other’s implementation details. This makes the system more flexible, easier to maintain, and scalable.
 
 
 
   
-    **Difference between coupling and low coupling**
+    Difference between coupling and low coupling
 
   The difference between coupling and low coupling in Software Design and Architecture (SDA) is based on the level of interdependence between modules or components in a system:
 
-    **Coupling:**
+    Coupling:
 
 Definition:
 Coupling refers to the degree of dependency between two modules or components in a system.
@@ -18,7 +18,7 @@ If there is high coupling, it means that the modules are highly dependent on eac
 Disadvantages:
 High coupling can lead to tightly interconnected systems where even minor changes in one module can result in bugs or the need for significant modifications in others.
 
-    **Low Coupling:**
+    Low Coupling:
 
 Definition: 
 Low coupling refers to a design where the modules or components have minimal dependencies on each other.
@@ -29,7 +29,7 @@ Achieving low coupling is desirable in software design because it results in a c
 
 
 
-    **low coupling role in daily life**
+    low coupling role in daily life
 
 1. Smart Home Devices:
 Devices like smart lights and thermostats work independently, so adjusting one doesn’t impact the others. This allows easier control and upgrades.
@@ -39,7 +39,7 @@ Printers, computers, and phones function separately, so if one fails, it doesn�
 Apps on your phone work independently. If one app crashes, it won’t affect the others, maintaining overall phone functionality.
 
 
-       **Why low coupling is necessary**
+       Why low coupling is necessary
 
 Low coupling is necessary for several reasons in software design and systems:
 
